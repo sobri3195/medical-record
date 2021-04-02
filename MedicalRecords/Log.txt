@@ -1,0 +1,2 @@
+(1583248545164) User: doctorsson, Operation: write, Patient: patientsson, Access: GRANTED
+(1583248545165) User: doctorsson, Operation: write, Patient: patientsson, Access: DENIED
